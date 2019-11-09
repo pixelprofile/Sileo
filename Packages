@@ -5,9 +5,9 @@ Maintainer: Arctic <pixelprofile.neocities@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.libretro.dist.ios.RetroArch_1.8.1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Size: 173089832
+MD5sum: a02e5180e53ae677f4c61a67428cf9c9
 Description: RetroArch is a frontend for emulators, game engines and media players.
 Name: RetroArch
-Author: Libretro <reposithree@gmail.com>
+Author: Libretro <https://libretro.com>
 Depiction: https://pixelprofile.github.io/repo/depictions/?p=com.libretro.dist.ios.RetroArch
