@@ -1,39 +1,21 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.libretro.dist.ios.RetroArch</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>1.8.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>RetroArch is a frontend for emulators, game engines and media players.</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>RetroArch is a frontend for emulators, game engines and media players.</description>
+		<description>It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.</description>
+		<description>RetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, and more</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>1.8.1</change>
+		<change>Initial upload.</change>
 	</changelog>
 	<links>
 		<link>
